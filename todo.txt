@@ -1,2 +1,0 @@
-do binary command
-do math command
